@@ -1,0 +1,1 @@
+{ "options" : { "create" : "professor" }, "indexes" : [ { "v" : 1, "key" : { "_id" : 1 }, "ns" : "doccdb.professor", "name" : "_id_" } ] }
